@@ -3,7 +3,7 @@
 Koibird website created as a test task for `Crisp Studio`.
 
 ## Description
-This github project has 2 branches
+This github project has it's own branches
 1. Main - main branch where hosting files served.
 2. Dev - dev branch where development files served.
 
